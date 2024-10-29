@@ -1,0 +1,4 @@
+#IF I HAD TO FIND SQUARE OR CUBE OF ANY NUMBER OR LETS SAY ANY POWER
+#I can use ** operator
+
+print(2**2**4)
